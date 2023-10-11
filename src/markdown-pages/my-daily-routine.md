@@ -1,11 +1,20 @@
 ---
-title: "My Daily Routine"
-date: "2023-10-10"
+title: 'My Social Network Blog'
+date: '2018-08-21'
 ---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Daily Routine</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="content">
 
 # My Daily Routine for a Healthy Lifestyle
 
-![Daily Routine](your-image-url.jpg)
+![Daily Routine](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)
 
 Life is all about habits and routines. By maintaining a structured daily routine, I've been able to lead a healthier and more productive life. In this blog, I'll take you through my daily routine, focusing on the habits that help me maintain a healthy lifestyle.
 
@@ -57,3 +66,6 @@ What does your daily routine look like, and how do you prioritize a healthy life
 ---
 
 If you have any questions or would like to discuss daily routines and healthy habits further, feel free to reach out!
+    </div>
+</body>
+</html>
