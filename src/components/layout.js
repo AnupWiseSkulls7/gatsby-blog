@@ -30,6 +30,7 @@ const Layout = ({ children }) => {
           margin: `0 auto`,
           maxWidth: `var(--size-content)`,
           padding: `var(--size-gutter)`,
+          height:'100%'
         }}
       >
         <main>{children}</main>
